@@ -1,7 +1,6 @@
 import numpy as np
 import pandas as pd
 
-# クラス継承の概念が難しいが，理解している時間は無いので別でコードを作成
 """
 simulator:データの行数だけシミュレーションを行い，報酬リストを返す関数
     input:
